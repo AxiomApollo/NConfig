@@ -47,6 +47,8 @@ Plug 'ryanoasis/vim-devicons'
 
 Plug 'rstacruz/vim-hyperstyle'
 
+Plug 'ollykel/v-vim'
+
 
 call plug#end()
 
